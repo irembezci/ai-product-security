@@ -1,4 +1,4 @@
-# Project 01 — FinBot Security Analysis
+# Project 01 - FinBot Security Analysis
 
 ## Overview
 
@@ -7,6 +7,8 @@ This project documents a structured AI Product Security analysis of OWASP FinBot
 The objective is to evaluate the platform from the perspective of an AI Product Security Analyst by applying a systematic security analysis methodology.
 
 The project focuses on understanding the product, identifying critical assets, analyzing trust boundaries, assessing risks and developing security recommendations.
+
+![FinBot Overview](images/finbot-overview.png)
 
 ## Target System
 
