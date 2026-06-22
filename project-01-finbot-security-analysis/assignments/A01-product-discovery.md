@@ -37,7 +37,7 @@ The purpose of this project is to perform a structured AI Product Security analy
 
 The objective is to identify security risks, understand business and technical workflows and support secure product development prior to production deployment.
 
-All product ownership, source code, and intellectual property belong to the OWASP GenAI Security Project and its contributors.
+All product ownership, source code and intellectual property belong to the OWASP GenAI Security Project and its contributors.
 
 Project Repository: https://github.com/GenAI-Security-Project/finbot-ctf
 
