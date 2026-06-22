@@ -13,9 +13,13 @@ Product understanding is a critical first step in any security review because se
 
 As an AI Product Security Analyst, you have been assigned to perform an initial security review of FinBot, a multi-agent AI platform used in the financial services industry.
 
-The platform automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation, and vendor communications.
+The objective of this assignment is to establish a foundational understanding of the product before conducting any formal security assessment activities.
 
-Before conducting any security assessment, it is necessary to understand the product and document its core characteristics.
+FinBot automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation and vendor communications through a multi-agent AI architecture.
+
+At this stage, the focus is not on identifying vulnerabilities or performing threat modeling. Instead, the goal is to understand the product, its users, business objectives and key AI components.
+
+The findings from this assignment will be used in subsequent activities including architecture review, asset identification, trust boundary analysis, threat modeling and risk assessment.
 
 
 ## Target System
