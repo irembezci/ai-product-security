@@ -1,23 +1,24 @@
 # Assignment 01 — Product Discovery
 
+**Project:** FinBot Security Analysis
+
+**Phase:** Product Understanding
+
+**Estimated Time:** 30–60 Minutes
+
+**Difficulty:** Beginner
+
+
 ## Objective
 
-Before performing threat modeling or security analysis, it is essential to understand the product, its purpose, users and business workflows.
-
-This exercise focuses on gathering foundational information about the target system. The goal is not to identify vulnerabilities but to build a clear understanding of the product and its business context.
-
-Product understanding is a critical first step in any security review because security risks can only be evaluated within the context of business objectives, users, data flows and system functionality.
+Before performing threat modeling or security analysis, it is essential to understand the product, its purpose, users and business workflows. This exercise focuses on gathering foundational information about the target system. The goal is not to identify vulnerabilities but to build a clear understanding of the product and its business context. Product understanding is a critical first step in any security review because security risks can only be evaluated within the context of business objectives, users, data flows and system functionality.
 
 
 ## Assignment Context
 
-As an AI Product Security Analyst, you have been assigned to perform an initial security review of FinBot, a multi-agent AI platform used in the financial services industry.
+As an AI Product Security Analyst, you have been assigned to perform an initial security review of FinBot, a multi-agent AI platform used in the financial services industry. The objective of this assignment is to establish a foundational understanding of the product before conducting any formal security assessment activities.
 
-The objective of this assignment is to establish a foundational understanding of the product before conducting any formal security assessment activities.
-
-FinBot automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation and vendor communications through a multi-agent AI architecture.
-
-At this stage, the focus is not on identifying vulnerabilities or performing threat modeling. Instead, the goal is to understand the product, its users, business objectives and key AI components.
+FinBot automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation and vendor communications through a multi-agent AI architecture. At this stage, the focus is not on identifying vulnerabilities or performing threat modeling. Instead, the goal is to understand the product, its users, business objectives and key AI components.
 
 The findings from this assignment will be used in subsequent activities including architecture review, asset identification, trust boundary analysis, threat modeling and risk assessment.
 
