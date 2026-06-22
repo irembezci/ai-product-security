@@ -16,11 +16,15 @@ Before performing threat modeling or security analysis, it is essential to under
 
 ## Assignment Context
 
-As an AI Product Security Analyst, you have been assigned to perform an initial security review of FinBot, a multi-agent AI platform used in the financial services industry. The objective of this assignment is to establish a foundational understanding of the product before conducting any formal security assessment activities.
+You are an AI Product Security Analyst working within the FinBot Product Security Team.
 
-FinBot automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation and vendor communications through a multi-agent AI architecture. At this stage, the focus is not on identifying vulnerabilities or performing threat modeling. Instead, the goal is to understand the product, its users, business objectives and key AI components.
+FinBot is a multi-agent AI platform designed for the financial services industry. The platform supports business operations such as vendor onboarding, invoice processing, payment operations, fraud investigations, and vendor communications through a network of AI agents, tools and external integrations.
 
-The findings from this assignment will be used in subsequent activities including architecture review, asset identification, trust boundary analysis, threat modeling and risk assessment.
+As a member of the Product Security team, your responsibility is to identify security risks throughout the product lifecycle and help ensure that security requirements are considered before production deployment.
+
+Before performing architecture analysis, threat modeling, or risk assessment activities, it is necessary to develop a clear understanding of the product, its users, business objectives, workflows and AI components.
+
+This assignment focuses on product understanding rather than vulnerability identification. The findings will be used as the foundation for future activities including architecture analysis, asset inventory, trust boundary analysis, threat modeling, risk assessment and security recommendations.
 
 
 ## Target System
