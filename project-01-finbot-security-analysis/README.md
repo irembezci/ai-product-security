@@ -78,6 +78,16 @@ project-01-finbot-security-analysis/
 └── evidence/
 ```
 
+## Suggested Resources
+
+Before starting this assignment, review:
+
+- FinBot README
+- FinBot Architecture Overview
+- OWASP Product Security Principles
+
+Estimated Reading Time: 15–20 minutes 
+
 ## Learning Objectives
 
 By completing this project, the goal is to develop practical skills in:
